@@ -1,0 +1,27 @@
+GET http://localhost:8080/reverse-string?string=this is a test
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-07-18T193256.200.json
+
+###
+
+GET http://localhost:8080/reverse-string?string=abc
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-07-18T193241.200.json
+
+###
+
+GET http://localhost:8080/reverse-string
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-07-18T193225.200.json
+
+###
+
